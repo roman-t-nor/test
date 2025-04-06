@@ -1,4 +1,3 @@
 new-1.txt
-new-today
 
 
